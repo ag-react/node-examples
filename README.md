@@ -1,5 +1,10 @@
 # Examples for Node.js
 
+### Take note of implementation
+src/fullstack-tutorial/final/client/src/test-utils.js/renderApollo
+
+---
+
 ## [Websocket Example](./websocket)
 
 this example use three type of websocket server implementation
